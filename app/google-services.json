@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "997348296105",
+    "firebase_url": "https://soldier-strap-23eef.firebaseio.com",
+    "project_id": "soldier-strap-23eef",
+    "storage_bucket": "soldier-strap-23eef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997348296105:android:5d8c54d5afc0ebd444f0b8",
+        "android_client_info": {
+          "package_name": "com.example.recievemessage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997348296105-rpklgh8njbv5veht2d8jsrfpag6j7e5p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.recievemessage",
+            "certificate_hash": "5889e97dc458aa6e58eb8b87378d93a1a73cab31"
+          }
+        },
+        {
+          "client_id": "997348296105-mqrvja0d43j4inamagk29nrku6u2qe32.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.recievemessage",
+            "certificate_hash": "b46b73bfc8ef5050a4c8b53e70b94e2d2d3d5530"
+          }
+        },
+        {
+          "client_id": "997348296105-hvugohugugsolujgri7ps5l9kgfljp0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9GBxN6HEsipnAJvHNrREJsR0mHoCmYJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "997348296105-hvugohugugsolujgri7ps5l9kgfljp0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
